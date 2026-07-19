@@ -1,8 +1,7 @@
 # Awesome Tech Blogs by Japanese Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [!NOTE]
-> 日本の企業が運営するテックブログ (エンジニアブログ) のキュレーションリスト。
-> 情報収集・技術選定・企業研究の入り口として使えることを目指しています。
+> 日本の企業が運営するテックブログのキュレーションリスト。情報収集・技術選定・企業研究の入り口として使えることを目指しています。
 
 ## Contents
 
