@@ -1,6 +1,4 @@
-# Awesome Tech Blogs by Japanese Companies
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Tech Blogs by Japanese Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [!NOTE]
 > 日本の企業が運営するテックブログ (エンジニアブログ) のキュレーションリスト。
@@ -19,6 +17,7 @@
 
 **並び順**: アルファベット名 → 日本語名 (五十音) 順。
 
+> [!WARNING]
 > 掲載内容はコミュニティによる確認ベースです。URL・RSS の誤りやリンク切れを見つけたら Issue / PR でお知らせください。
 
 ## ブログ一覧
