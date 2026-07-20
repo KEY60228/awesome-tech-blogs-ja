@@ -23,6 +23,8 @@
 
 | 企業         | ブログ                                                                     | RSS                                                   |
 | ---------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
+| AI Shift   | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                    |                                                       |
+| AI Shift   | [AI Shift](https://zenn.dev/p/aishift/)                                 | [RSS](https://zenn.dev/p/aishift/feed)                |
 | サイバーエージェント | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/) |
 | サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                       |
 
