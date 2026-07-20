@@ -33,6 +33,7 @@
 | サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                       |
 | サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                       |
 | サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)             |
+| メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)  |
 
 ## Contribute
 
