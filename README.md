@@ -21,12 +21,20 @@
 
 ## ブログ一覧
 
-| 企業         | ブログ                                                                     | RSS                                                   |
-| ---------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
-| AI Shift   | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                    |                                                       |
-| AI Shift   | [AI Shift](https://zenn.dev/p/aishift/)                                 | [RSS](https://zenn.dev/p/aishift/feed)                |
-| サイバーエージェント | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/) |
-| サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                       |
+| 企業              | ブログ                                                                              | RSS                                                             |
+| --------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| AI Shift        | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                              | [RSS](https://www.ai-shift.co.jp/techblog/feed)                  |
+| AI Shift        | [AI Shift](https://zenn.dev/p/aishift/)                                            | [RSS](https://zenn.dev/p/aishift/feed)                            |
+| CAM              | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                                 |                                                                  |
+| Colorful Palette | [Colorful Palette Tech Note](https://media.colorfulpalette.co.jp/m/m753f507dae79/) | [RSS](https://media.colorfulpalette.co.jp/m/m753f507dae79/rss)   |
+| QualiArts        | [QualiArts engineer blog](https://technote.qualiarts.jp/)                          |                                                                  |
+| Sumzap           | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                              | [RSS](https://tech.sumzap.co.jp/feed)                             |
+| アプリボット         | [てっくぼっと！](https://blog.applibot.co.jp/)                                          | [RSS](https://blog.applibot.co.jp/feed/)                          |
+| アプリボット         | [アプリボット](https://zenn.dev/p/applibot_tech/)                                       | [RSS](https://zenn.dev/p/applibot_tech/feed)                      |
+| サイバーエージェント     | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/)            | [RSS](https://developers.cyberagent.co.jp/blog/feed/)             |
+| サイバーエージェント     | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                           |                                                                  |
+| サイバーエージェント     | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/)            |                                                                  |
+| サイバーエージェント     | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                           | [RSS](https://blog.sge-coretech.com/feed)                         |
 
 ## Contribute
 
