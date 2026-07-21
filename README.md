@@ -21,19 +21,26 @@
 
 ## ブログ一覧
 
-| 企業         | ブログ                                                                     | RSS                                                   |
-| ---------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
-| AI Shift   | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                    | [RSS](https://www.ai-shift.co.jp/techblog/feed)       |
-| AI Shift   | [AI Shift](https://zenn.dev/p/aishift/)                                 | [RSS](https://zenn.dev/p/aishift/feed)                |
-| CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                       |
-| QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                       |
-| Sumzap     | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                 |
-| アプリボット     | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)          |
-| サイバーエージェント | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/) |
-| サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                       |
-| サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                       |
-| サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)             |
-| メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)  |
+| 企業         | ブログ                                                                     | RSS                                                    |
+| ---------- | ----------------------------------------------------------------------- | ------------------------------------------------------ |
+| AI Shift   | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                    | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
+| AI Shift   | [AI Shift](https://zenn.dev/p/aishift/)                                 | [RSS](https://zenn.dev/p/aishift/feed)                 |
+| CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
+| LINEヤフー    | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
+| PayPay     | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
+| QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
+| Sumzap     | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
+| ZOZO       | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
+| ZOZO       | [ZOZO](https://zenn.dev/p/zozotech/)                                    | [RSS](https://zenn.dev/p/zozotech/feed)                |
+| アスクル       | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
+| アプリボット     | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
+| 一休         | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| サイバーエージェント | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
+| サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
+| サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
+| サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)              |
+| 出前館        | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 
 ## Contribute
 
