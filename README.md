@@ -28,6 +28,7 @@
 | CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                       |
 | QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                       |
 | Sumzap     | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                 |
+| ZOZO       | [ZOZO TECH BLOG](https://techblog.zozo.com/)                           | [RSS](https://techblog.zozo.com/feed)                 |
 | アプリボット     | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)          |
 | サイバーエージェント | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/) |
 | サイバーエージェント | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                       |
