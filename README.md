@@ -26,6 +26,9 @@
 | AI Shift   | [AI Shift (旧)](https://www.ai-shift.co.jp/techblog/)                    | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
 | AI Shift   | [AI Shift](https://zenn.dev/p/aishift/)                                 | [RSS](https://zenn.dev/p/aishift/feed)                 |
 | CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
+| DeNA       | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
+| DeNA       | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
+| DeNA       | [DeNA Engineers](https://zenn.dev/p/dena/)                              | [RSS](https://zenn.dev/p/dena/feed)                    |
 | LINEヤフー    | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | PayPay     | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
