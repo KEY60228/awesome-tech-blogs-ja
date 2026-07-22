@@ -28,8 +28,14 @@
 | CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
 | DeNA       | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA       | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
+| GMO Flatt Security | [GMO Flatt Security Blog](https://blog.flatt.tech/)             | [RSS](https://blog.flatt.tech/feed)                    |
+| GMOあおぞらネット銀行 | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/) | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
+| GMOインターネットグループ | [GMO Developers](https://developers.gmo.jp/)                |                                                        |
+| GMOグローバルサイン・ホールディングス | [One Tech Blog](https://tech.gmogshd.com/)           |                                                        |
 | GMOペパボ    | [Pepabo Tech Portal](https://tech.pepabo.com/)                          |                                                        |
 | GMOペパボ    | [GMOペパボ](https://zenn.dev/p/pepabo/)                                  | [RSS](https://zenn.dev/p/pepabo/feed)                  |
+| GMOメディア  | [GMOメディア クリエイターブログ](https://blog.gmo.media/)                  |                                                        |
+| GMOメディア  | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                   | [RSS](https://zenn.dev/p/gmomedia/feed)                |
 | LINEヤフー    | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | PayPay     | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
