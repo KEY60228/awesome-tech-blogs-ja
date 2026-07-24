@@ -42,6 +42,7 @@
 | サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
 | サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)              |
 | 出前館        | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| はてな        | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 | リクルート      | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート      | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
