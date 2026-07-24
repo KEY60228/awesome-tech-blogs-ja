@@ -30,12 +30,14 @@
 | DeNA       | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
 | GMO Flatt Security | [GMO Flatt Security Blog](https://blog.flatt.tech/)             | [RSS](https://blog.flatt.tech/feed)                    |
 | GMOあおぞらネット銀行 | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/) | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
-| GMOインターネットグループ | [GMO Developers](https://developers.gmo.jp/)                |                                                        |
+| GMOインターネットグループ | [グループ研究開発本部 エンジニアブログ](https://recruit.group.gmo/engineer/jisedai/blog/) |                                        |
 | GMOグローバルサイン・ホールディングス | [One Tech Blog](https://tech.gmogshd.com/)           |                                                        |
+| GMOサイバーセキュリティ byイエラエ | [サイバーセキュリティブログ](https://gmo-cybersecurity.com/blog/) |                                                        |
 | GMOペパボ    | [Pepabo Tech Portal](https://tech.pepabo.com/)                          |                                                        |
 | GMOペパボ    | [GMOペパボ](https://zenn.dev/p/pepabo/)                                  | [RSS](https://zenn.dev/p/pepabo/feed)                  |
-| GMOメディア  | [GMOメディア クリエイターブログ](https://blog.gmo.media/)                  |                                                        |
+| GMOメイクショップ | [GMO MAKESHOP engineer blog](https://tech.makeshop.co.jp/)        | [RSS](https://tech.makeshop.co.jp/feed)                |
 | GMOメディア  | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                   | [RSS](https://zenn.dev/p/gmomedia/feed)                |
+| GMOリサーチ&AI | [GMOリサーチ&AI テックブログ](https://gmor-sys.com/)                   |                                                        |
 | LINEヤフー    | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | PayPay     | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts  | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
