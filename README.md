@@ -28,6 +28,7 @@
 | CAM        | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
 | DeNA       | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA       | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
+| freee      | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
 | GMO Flatt Security | [GMO Flatt Security Blog](https://blog.flatt.tech/)             | [RSS](https://blog.flatt.tech/feed)                    |
 | GMOあおぞらネット銀行 | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/) | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
 | GMOインターネットグループ | [グループ研究開発本部 エンジニアブログ](https://recruit.group.gmo/engineer/jisedai/blog/) |                                        |
@@ -52,6 +53,7 @@
 | サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
 | サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)              |
 | 出前館        | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| はてな        | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 | リクルート      | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート      | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
