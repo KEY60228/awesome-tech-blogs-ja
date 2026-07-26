@@ -32,7 +32,6 @@
 | GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                     | [RSS](https://blog.flatt.tech/feed)                    |
 | GMOあおぞらネット銀行         | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/)          | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
 | GMOインターネットグループ       | [グループ研究開発本部 エンジニアブログ](https://recruit.group.gmo/engineer/jisedai/blog/) |                                                        |
-| GMOグローバルサイン・ホールディングス | [One Tech Blog](https://tech.gmogshd.com/)                              |                                                        |
 | GMOサイバーセキュリティ byイエラエ | [サイバーセキュリティブログ](https://gmo-cybersecurity.com/blog/)                    |                                                        |
 | GMOペパボ               | [Pepabo Tech Portal](https://tech.pepabo.com/)                          |                                                        |
 | GMOペパボ               | [GMOペパボ](https://zenn.dev/p/pepabo/)                                    | [RSS](https://zenn.dev/p/pepabo/feed)                  |
