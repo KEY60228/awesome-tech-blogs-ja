@@ -43,6 +43,9 @@
 | サイバーエージェント | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
 | サイバーエージェント | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)              |
 | サイボウズ      | [Cybozu Inside Out](https://blog.cybozu.io/)                            | [RSS](https://blog.cybozu.io/feed)                     |
+| サイボウズ      | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
+| サイボウズ      | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
+| サイボウズ      | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
 | 出前館        | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | はてな        | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | メルカリ       | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
