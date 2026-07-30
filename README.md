@@ -56,6 +56,7 @@
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
+| マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
