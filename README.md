@@ -62,6 +62,7 @@
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
+| ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
