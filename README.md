@@ -49,6 +49,7 @@
 | アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
 | アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
 | サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
 | サイバーエージェント           | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
