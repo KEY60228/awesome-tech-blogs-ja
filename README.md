@@ -53,6 +53,8 @@
 | エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
 | エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
 | クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
+| クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
+| クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
 | サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
 | サイバーエージェント           | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
