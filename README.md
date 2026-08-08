@@ -37,9 +37,12 @@
 | GMOペパボ               | [GMOペパボ](https://zenn.dev/p/pepabo/)                                    | [RSS](https://zenn.dev/p/pepabo/feed)                  |
 | GMOメイクショップ           | [GMO MAKESHOP engineer blog](https://tech.makeshop.co.jp/)              | [RSS](https://tech.makeshop.co.jp/feed)                |
 | GMOメディア              | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                           | [RSS](https://zenn.dev/p/gmomedia/feed)                |
+| LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
+| LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
 | LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
+| Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
@@ -47,6 +50,8 @@
 | アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
 | アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
+| エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
 | クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
 | サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
@@ -61,6 +66,7 @@
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
+| ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
