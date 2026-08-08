@@ -42,6 +42,7 @@
 | LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
+| Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
@@ -49,6 +50,9 @@
 | アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
 | アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
+| エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
+| クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
 | クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
 | クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
@@ -59,11 +63,13 @@
 | サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
 | サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
+| タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
+| ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
