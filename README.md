@@ -40,6 +40,7 @@
 | Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
+| LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                        | [RSS](https://www.lifull.blog/feed)                    |
 | LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | MIXI                 | [MIXI DEVELOPERS](https://mixi-developers.mixi.co.jp/)                  | [RSS](https://medium.com/feed/mixi-developers)         |
 | MIXI                 | [MIXI DEVELOPERS Tech Blog](https://zenn.dev/p/mixi/)                   | [RSS](https://zenn.dev/p/mixi/feed)                    |
