@@ -48,6 +48,7 @@
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
+| STORES               | [STORES Product Blog](https://product.st.inc/)                          | [RSS](https://product.st.inc/feed)                     |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
 | ZOZO                 | [ZOZO](https://zenn.dev/p/zozotech/)                                    | [RSS](https://zenn.dev/p/zozotech/feed)                |
