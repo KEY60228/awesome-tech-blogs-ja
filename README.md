@@ -28,6 +28,7 @@
 | CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
 | DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
+| Findy                | [Findy Tech Blog](https://tech.findy.co.jp/)                            | [RSS](https://tech.findy.co.jp/feed)                   |
 | freee                | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
 | GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                     | [RSS](https://blog.flatt.tech/feed)                    |
 | GMOあおぞらネット銀行         | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/)          | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
