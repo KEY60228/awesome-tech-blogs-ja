@@ -1,5 +1,6 @@
 # Awesome Tech Blogs by Japanese Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> [!NOTE]
 > 日本の企業・組織が運営する技術ブログ。
 
 ## Contents
