@@ -71,6 +71,7 @@
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                   |                                                        |
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                              | [RSS](https://inside.pixiv.blog/feed)                  |
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
