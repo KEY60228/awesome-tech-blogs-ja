@@ -58,6 +58,7 @@
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
 | エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
 | エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
+| カケハシ                 | [KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/)            | [RSS](https://kakehashi-dev.hatenablog.com/feed)       |
 | カヤック                 | [KAYAC Engineers' Blog](https://techblog.kayac.com/)                    | [RSS](https://techblog.kayac.com/feed)                 |
 | クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
 | クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
