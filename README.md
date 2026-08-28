@@ -1,14 +1,11 @@
 # Awesome Tech Blogs by Japanese Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [!NOTE]
-> 日本の企業が運営するテックブログのキュレーションリスト。情報収集・技術選定・企業研究の入り口として使えることを目指しています。
+> 日本の企業・組織が運営する技術ブログ。
 
 ## Contents
 
 - [凡例](#凡例)
 - [ブログ一覧](#ブログ一覧)
-- [Contribute](#contribute)
-- [ライセンス](#ライセンス)
 
 ## 凡例
 
@@ -90,10 +87,6 @@
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
 
-## Contribute
+## Contributing
 
 掲載企業の追加・修正は大歓迎です。掲載基準や記載フォーマットは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
-
-## ライセンス
-
-この一覧は [CC0 1.0 Universal](LICENSE) (パブリックドメイン) で提供されます。
