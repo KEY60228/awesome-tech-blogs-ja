@@ -25,6 +25,7 @@
 | AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                       | [RSS](https://zenn.dev/p/aishift/feed)                 |
 | BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                          | [RSS](https://devblog.thebase.in/feed)                 |
 | CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
+| CARTA HOLDINGS       | [CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/)                | [RSS](https://techblog.cartaholdings.co.jp/feed)       |
 | Cygames              | [Cygames Engineers' Blog](https://tech.cygames.co.jp/)                  | [RSS](https://tech.cygames.co.jp/feed)                 |
 | DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
