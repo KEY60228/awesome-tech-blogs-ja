@@ -81,6 +81,7 @@
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                              | [RSS](https://inside.pixiv.blog/feed)                  |
 | ファインディ               | [Findy Tech Blog](https://tech.findy.co.jp/)                            | [RSS](https://tech.findy.co.jp/feed)                   |
+| フューチャー               | [フューチャー技術ブログ](https://future-architect.github.io/)                     | [RSS](https://future-architect.github.io/atom.xml)     |
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                     | [RSS](https://tech.mirrativ.stream/feed)               |
