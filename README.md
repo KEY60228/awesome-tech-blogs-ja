@@ -38,6 +38,7 @@
 | GMOペパボ               | [GMOペパボ](https://zenn.dev/p/pepabo/)                                    | [RSS](https://zenn.dev/p/pepabo/feed)                  |
 | GMOメイクショップ           | [GMO MAKESHOP engineer blog](https://tech.makeshop.co.jp/)              | [RSS](https://tech.makeshop.co.jp/feed)                |
 | GMOメディア              | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                           | [RSS](https://zenn.dev/p/gmomedia/feed)                |
+| GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                              | [RSS](https://techblog.goinc.jp/feed)                  |
 | Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
