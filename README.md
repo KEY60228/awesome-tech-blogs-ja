@@ -75,6 +75,8 @@
 | サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
 | サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
+| セーフィー                | [Safie Engineers' Blog! (旧)](https://engineers.safie.link/)             | [RSS](https://engineers.safie.link/feed)               |
+| セーフィー                | [セーフィー テックブログ](https://zenn.dev/p/safie_inc/)                           | [RSS](https://zenn.dev/p/safie_inc/feed)               |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                   |                                                        |
