@@ -77,6 +77,9 @@
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| ドワンゴ                 | [dwango on GitHub](https://dwango.github.io/)                           | [RSS](https://dwango.github.io/index.xml)              |
+| ドワンゴ                 | [DWANGO Engineering Blog](https://engineering.kdx.co.jp/)               | [RSS](https://engineering.kdx.co.jp/feed)              |
+| ドワンゴ                 | [ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/)                               | [RSS](https://blog.nnn.dev/feed)                       |
 | ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                   |                                                        |
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                              | [RSS](https://inside.pixiv.blog/feed)                  |
