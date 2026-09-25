@@ -90,6 +90,7 @@
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
 | リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
+| ログラス                 | [ログラス テックブログ](https://zenn.dev/p/loglass/)                              | [RSS](https://zenn.dev/p/loglass/feed)                 |
 
 ## Contributing
 
