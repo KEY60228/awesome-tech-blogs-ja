@@ -72,6 +72,7 @@
 | カミナシ                 | [カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/)             | [RSS](https://kaminashi-developer.hatenablog.jp/feed)  |
 | カヤック                 | [KAYAC Engineers' Blog](https://techblog.kayac.com/)                    | [RSS](https://techblog.kayac.com/feed)                 |
 | クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
+| クラウドワークス             | [クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/)                    | [RSS](https://engineer.crowdworks.jp/feed)             |
 | クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
 | クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
