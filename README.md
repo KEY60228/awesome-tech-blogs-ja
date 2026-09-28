@@ -90,6 +90,7 @@
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                     | [RSS](https://tech.mirrativ.stream/feed)               |
+| メドピア                 | [メドピア開発者ブログ](https://tech.medpeer.co.jp/)                               | [RSS](https://tech.medpeer.co.jp/feed)                 |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 | ヤプリ                  | [Yappli Tech Blog](https://tech.yappli.io/)                             | [RSS](https://tech.yappli.io/feed)                     |
 | ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
