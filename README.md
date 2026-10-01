@@ -50,6 +50,7 @@
 | MIXI                 | [MIXI DEVELOPERS](https://mixi-developers.mixi.co.jp/)                  | [RSS](https://medium.com/feed/mixi-developers)         |
 | MIXI                 | [MIXI DEVELOPERS Tech Blog](https://zenn.dev/p/mixi/)                   | [RSS](https://zenn.dev/p/mixi/feed)                    |
 | MonotaRO             | [MonotaRO Tech Blog](https://tech-blog.monotaro.com/)                   | [RSS](https://tech-blog.monotaro.com/feed)             |
+| NTTドコモビジネス          | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)       | [RSS](https://engineers.ntt.com/feed)                  |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
