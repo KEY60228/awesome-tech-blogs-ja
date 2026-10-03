@@ -27,6 +27,7 @@
 | CADDi                | [CADDi Tech Blog](https://caddi.tech/)                                  | [RSS](https://caddi.tech/feed)                         |
 | CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
 | CARTA HOLDINGS       | [CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/)                | [RSS](https://techblog.cartaholdings.co.jp/feed)       |
+| Classi               | [Classi開発者ブログ](https://tech.classi.jp/)                                 | [RSS](https://tech.classi.jp/feed)                     |
 | Cygames              | [Cygames Engineers' Blog](https://tech.cygames.co.jp/)                  | [RSS](https://tech.cygames.co.jp/feed)                 |
 | DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
