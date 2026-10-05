@@ -43,6 +43,7 @@
 | GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                              | [RSS](https://techblog.goinc.jp/feed)                  |
 | Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
 | KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
+| kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
 | LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                        | [RSS](https://www.lifull.blog/feed)                    |
