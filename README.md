@@ -85,6 +85,7 @@
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 食べログ                 | [Tabelog Tech Blog](https://tech-blog.tabelog.com/)                     | [RSS](https://tech-blog.tabelog.com/feed)              |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| ドワンゴ                 | [ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/)                               | [RSS](https://blog.nnn.dev/feed)                       |
 | ナレッジワーク              | [株式会社ナレッジワーク](https://zenn.dev/p/knowledgework/)                        | [RSS](https://zenn.dev/p/knowledgework/feed)           |
 | ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                   |                                                        |
 | 日本経済新聞社              | [HACK The Nikkei](https://hack.nikkei.com/blog/)                        |                                                        |
