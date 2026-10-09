@@ -102,6 +102,7 @@
 | リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
 | レバレジーズ               | [Leverages Tech Blog](https://tech.leverages.jp/)                       | [RSS](https://tech.leverages.jp/feed)                  |
 | レバレジーズ               | [レバレジーズ データAIブログ](https://analytics.leverages.jp/)                      | [RSS](https://analytics.leverages.jp/feed)             |
+| ログラス                 | [ログラス テックブログ](https://zenn.dev/p/loglass/)                              | [RSS](https://zenn.dev/p/loglass/feed)                 |
 
 ## Contributing
 
