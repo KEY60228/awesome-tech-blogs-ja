@@ -90,6 +90,7 @@
 | はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
 | ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                              | [RSS](https://inside.pixiv.blog/feed)                  |
 | ファインディ               | [Findy Tech Blog](https://tech.findy.co.jp/)                            | [RSS](https://tech.findy.co.jp/feed)                   |
+| プレイド                 | [PLAID Engineer Blog](https://tech.plaid.co.jp/)                        |                                                        |
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                     | [RSS](https://tech.mirrativ.stream/feed)               |
