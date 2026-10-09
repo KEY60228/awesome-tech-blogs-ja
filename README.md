@@ -82,7 +82,7 @@
 | サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
 | サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
-| セガ                     | [SEGA TECH Blog](https://techblog.sega.jp/)                             | [RSS](https://techblog.sega.jp/feed)                   |
+| セガ                   | [SEGA TECH Blog](https://techblog.sega.jp/)                             | [RSS](https://techblog.sega.jp/feed)                   |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | ナレッジワーク              | [株式会社ナレッジワーク](https://zenn.dev/p/knowledgework/)                        | [RSS](https://zenn.dev/p/knowledgework/feed)           |
