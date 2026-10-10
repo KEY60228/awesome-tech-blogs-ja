@@ -43,6 +43,7 @@
 | GMOメディア              | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                           | [RSS](https://zenn.dev/p/gmomedia/feed)                |
 | GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                              | [RSS](https://techblog.goinc.jp/feed)                  |
 | Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
+| hacomono             | [hacomono TECH BLOG](https://techblog.hacomono.jp/)                     | [RSS](https://techblog.hacomono.jp/feed)               |
 | KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
