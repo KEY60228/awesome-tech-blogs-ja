@@ -104,6 +104,7 @@
 | メドピア                 | [メドピア開発者ブログ](https://tech.medpeer.co.jp/)                               | [RSS](https://tech.medpeer.co.jp/feed)                 |
 | メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
 | ヤプリ                  | [Yappli Tech Blog](https://tech.yappli.io/)                             | [RSS](https://tech.yappli.io/feed)                     |
+| ユーザベース               | [Uzabase for Engineers](https://tech.uzabase.com/)                      | [RSS](https://tech.uzabase.com/feed)                   |
 | ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
 | ラクスル                 | [RAKSUL TechBlog](https://techblog.raksul.com/)                         | [RSS](https://techblog.raksul.com/feed)                |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
