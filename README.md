@@ -31,6 +31,7 @@
 | DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
 | DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
 | DMM                  | [DMM Developers Blog](https://developersblog.dmm.com/)                  | [RSS](https://developersblog.dmm.com/feed)             |
+| enechain             | [enechain Tech Blog](https://techblog.enechain.com/)                    | [RSS](https://techblog.enechain.com/feed)              |
 | freee                | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
 | G-gen                | [G-gen Tech Blog](https://blog.g-gen.co.jp/)                            | [RSS](https://blog.g-gen.co.jp/feed)                   |
 | GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                     | [RSS](https://blog.flatt.tech/feed)                    |
