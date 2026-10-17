@@ -82,6 +82,7 @@
 | クラウドワークス             | [クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/)                    | [RSS](https://engineer.crowdworks.jp/feed)             |
 | クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
 | クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
+| グリー                  | [GREE Engineering](https://labs.gree.jp/blog/)                          | [RSS](https://labs.gree.jp/blog/feed/)                 |
 | サーバーワークス             | [サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/)                     | [RSS](https://blog.serverworks.co.jp/feed)             |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
 | サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
