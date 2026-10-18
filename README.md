@@ -71,6 +71,7 @@
 | アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
 | アンドパッド               | [ANDPAD Tech Blog](https://tech.andpad.co.jp/)                          | [RSS](https://tech.andpad.co.jp/feed)                  |
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| エブリー                 | [every Tech Blog](https://tech.every.tv/)                               | [RSS](https://tech.every.tv/feed)                      |
 | エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
 | エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
 | カカクコム                | [Tabelog Tech Blog](https://tech-blog.tabelog.com/)                     | [RSS](https://tech-blog.tabelog.com/feed)              |
