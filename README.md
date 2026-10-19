@@ -58,6 +58,7 @@
 | MonotaRO             | [MonotaRO Tech Blog](https://tech-blog.monotaro.com/)                   | [RSS](https://tech-blog.monotaro.com/feed)             |
 | NTTドコモビジネス           | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)       | [RSS](https://engineers.ntt.com/feed)                  |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
+| PR TIMES             | [PR TIMES 開発者ブログ](https://developers.prtimes.com/)                     |                                                        |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartBank            | [inSmartBank](https://blog.smartbank.co.jp/)                            | [RSS](https://blog.smartbank.co.jp/feed)               |
