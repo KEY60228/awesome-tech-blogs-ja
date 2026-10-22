@@ -62,6 +62,7 @@
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartBank            | [inSmartBank](https://blog.smartbank.co.jp/)                            | [RSS](https://blog.smartbank.co.jp/feed)               |
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
+| Speee                | [Speee DEVELOPER BLOG](https://tech.speee.jp/)                          | [RSS](https://tech.speee.jp/feed)                      |
 | STORES               | [STORES Product Blog](https://product.st.inc/)                          | [RSS](https://product.st.inc/feed)                     |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
 | Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                             | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
