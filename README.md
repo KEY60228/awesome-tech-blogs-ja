@@ -68,6 +68,7 @@
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
 | ZOZO                 | [ZOZO](https://zenn.dev/p/zozotech/)                                    | [RSS](https://zenn.dev/p/zozotech/feed)                |
 | アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
+| アソビュー                | [asoview! Tech Blog](https://tech.asoview.co.jp/)                       | [RSS](https://tech.asoview.co.jp/feed)                 |
 | アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
 | アンドパッド               | [ANDPAD Tech Blog](https://tech.andpad.co.jp/)                          | [RSS](https://tech.andpad.co.jp/feed)                  |
 | 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
