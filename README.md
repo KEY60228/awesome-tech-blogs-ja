@@ -47,6 +47,7 @@
 | GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                              | [RSS](https://techblog.goinc.jp/feed)                  |
 | Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
 | hacomono             | [hacomono TECH BLOG](https://techblog.hacomono.jp/)                     | [RSS](https://techblog.hacomono.jp/feed)               |
+| JX通信社                | [JX通信社エンジニアブログ](https://tech.jxpress.net/)                          | [RSS](https://tech.jxpress.net/feed)                   |
 | KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
 | kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
