@@ -93,6 +93,7 @@
 | サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
 | セーフィー                | [セーフィー テックブログ](https://zenn.dev/p/safie_inc/)                           | [RSS](https://zenn.dev/p/safie_inc/feed)               |
+| セガ                   | [SEGA TECH Blog](https://techblog.sega.jp/)                             | [RSS](https://techblog.sega.jp/feed)                   |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
 | ドワンゴ                 | [dwango on GitHub](https://dwango.github.io/)                           |                                                        |
