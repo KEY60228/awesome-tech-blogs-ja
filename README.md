@@ -21,6 +21,7 @@
 
 | 企業                   | ブログ                                                                     | RSS                                                    |
 | -------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ |
+| 10X                  | [10X Product Blog](https://product.10x.co.jp/)                          | [RSS](https://product.10x.co.jp/feed)                  |
 | AI Shift             | [AI Shift Tech Blog (旧)](https://www.ai-shift.co.jp/techblog/)          | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
 | AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                       | [RSS](https://zenn.dev/p/aishift/feed)                 |
 | BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                          | [RSS](https://devblog.thebase.in/feed)                 |
