@@ -52,6 +52,7 @@
 | kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
+| LegalOn Technologies | [LegalOn Technologies Engineering Blog](https://tech.legalforce.co.jp/) | [RSS](https://tech.legalforce.co.jp/feed) |
 | LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                        | [RSS](https://www.lifull.blog/feed)                    |
 | LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
 | MIXI                 | [MIXI DEVELOPERS](https://mixi-developers.mixi.co.jp/)                  | [RSS](https://medium.com/feed/mixi-developers)         |
