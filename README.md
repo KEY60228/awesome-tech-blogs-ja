@@ -60,6 +60,7 @@
 | NTTドコモビジネス           | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)       | [RSS](https://engineers.ntt.com/feed)                  |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
+| Retty                | [Retty Tech Blog](https://engineer.retty.me/)                           | [RSS](https://engineer.retty.me/feed)                  |
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
 | SmartBank            | [inSmartBank](https://blog.smartbank.co.jp/)                            | [RSS](https://blog.smartbank.co.jp/feed)               |
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
