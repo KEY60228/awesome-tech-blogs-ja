@@ -111,6 +111,7 @@
 | ファインディ               | [Findy Tech Blog](https://tech.findy.co.jp/)                            | [RSS](https://tech.findy.co.jp/feed)                   |
 | フューチャー               | [フューチャー技術ブログ](https://future-architect.github.io/)                      | [RSS](https://future-architect.github.io/atom.xml)     |
 | 弁護士ドットコム             | [弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/)             | [RSS](https://creators.bengo4.com/feed)                |
+| ヘンリー                 | [株式会社ヘンリー エンジニアブログ](https://dev.henry.jp/)                     | [RSS](https://dev.henry.jp/feed)                       |
 | マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
 | マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
 | ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                     | [RSS](https://tech.mirrativ.stream/feed)               |
