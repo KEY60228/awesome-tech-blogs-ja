@@ -65,6 +65,7 @@
 | SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
 | STORES               | [STORES Product Blog](https://product.st.inc/)                          | [RSS](https://product.st.inc/feed)                     |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
+| TVer                 | [TVer Tech Blog](https://techblog.tver.co.jp/)                          | [RSS](https://techblog.tver.co.jp/feed)                |
 | Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                             | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
 | Visional             | [Visional Engineering Blog](https://engineering.visional.inc/blog/)     |                                                        |
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
