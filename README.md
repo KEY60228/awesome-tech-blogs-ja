@@ -35,6 +35,7 @@
 | DMM                  | [DMM Developers Blog](https://developersblog.dmm.com/)                  | [RSS](https://developersblog.dmm.com/feed)             |
 | enechain             | [enechain Tech Blog](https://techblog.enechain.com/)                    | [RSS](https://techblog.enechain.com/feed)              |
 | freee                | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
+| Fusic                | [Fusic Tech Blog](https://tech.fusic.co.jp/)                            | [RSS](https://tech.fusic.co.jp/rss.xml)                |
 | G-gen                | [G-gen Tech Blog](https://blog.g-gen.co.jp/)                            | [RSS](https://blog.g-gen.co.jp/feed)                   |
 | GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                     | [RSS](https://blog.flatt.tech/feed)                    |
 | GMOあおぞらネット銀行         | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/)          | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
