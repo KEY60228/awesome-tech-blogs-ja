@@ -50,6 +50,7 @@
 | IIJ                  | [IIJ Engineers Blog](https://eng-blog.iij.ad.jp/)                       | [RSS](https://eng-blog.iij.ad.jp/feed)                 |
 | KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
 | kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
+| Kyash                | [Kyash Product Blog](https://blog.kyash.co/)                            | [RSS](https://blog.kyash.co/feed)                      |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
 | LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
 | LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                        | [RSS](https://www.lifull.blog/feed)                    |
