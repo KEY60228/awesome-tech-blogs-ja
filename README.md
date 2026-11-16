@@ -107,6 +107,7 @@
 | セガ                   | [SEGA TECH Blog](https://techblog.sega.jp/)                             | [RSS](https://techblog.sega.jp/feed)                   |
 | タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
 | 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
+| ドリコム                 | [Tech Inside Drecom](https://tech.drecom.co.jp/)                        | [RSS](https://tech.drecom.co.jp/feed/)                 |
 | ドワンゴ                 | [dwango on GitHub](https://dwango.github.io/)                           |                                                        |
 | ドワンゴ                 | [DWANGO Engineering Blog](https://engineering.kdx.co.jp/)               | [RSS](https://engineering.kdx.co.jp/feed)              |
 | ドワンゴ                 | [ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/)                               | [RSS](https://blog.nnn.dev/feed)                       |
