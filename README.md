@@ -81,6 +81,7 @@
 | エブリー                 | [every Tech Blog](https://tech.every.tv/)                               | [RSS](https://tech.every.tv/feed)                      |
 | エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
 | エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
+| オプティム                | [OPTiM TECH BLOG](https://tech-blog.optim.co.jp/)                       | [RSS](https://tech-blog.optim.co.jp/feed)              |
 | カカクコム                | [Tabelog Tech Blog](https://tech-blog.tabelog.com/)                     | [RSS](https://tech-blog.tabelog.com/feed)              |
 | カカクコム                | [カカクコムTechBlog](https://kakaku-techblog.com/)                           | [RSS](https://kakaku-techblog.com/feed)                |
 | カケハシ                 | [KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/)            | [RSS](https://kakehashi-dev.hatenablog.com/feed)       |
