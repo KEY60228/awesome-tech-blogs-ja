@@ -108,6 +108,7 @@
 | サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
 | サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
 | サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
+| さくらインターネット           | [さくらのナレッジ](https://knowledge.sakura.ad.jp/)                             |                                                        |
 | スタメン                 | [stmn tech blog](https://tech.stmn.co.jp/)                              | [RSS](https://tech.stmn.co.jp/feed)                    |
 | セーフィー                | [セーフィー テックブログ](https://zenn.dev/p/safie_inc/)                           | [RSS](https://zenn.dev/p/safie_inc/feed)               |
 | セガ                   | [SEGA TECH Blog](https://techblog.sega.jp/)                             | [RSS](https://techblog.sega.jp/feed)                   |
