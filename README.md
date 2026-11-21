@@ -128,6 +128,7 @@
 | モバイルファクトリー           | [Mobile Factory Tech Blog](https://tech.mobilefactory.jp/)              | [RSS](https://tech.mobilefactory.jp/feed)              |
 | ヤプリ                  | [Yappli Tech Blog](https://tech.yappli.io/)                             | [RSS](https://tech.yappli.io/feed)                     |
 | ユーザベース               | [Uzabase for Engineers](https://tech.uzabase.com/)                      | [RSS](https://tech.uzabase.com/feed)                   |
+| ラクーンホールディングス         | [Raccoon Tech Blog](https://techblog.raccoon.ne.jp/)                    |                                                        |
 | ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
 | ラクスル                 | [RAKSUL TechBlog](https://techblog.raksul.com/)                         | [RSS](https://techblog.raksul.com/feed)                |
 | リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
