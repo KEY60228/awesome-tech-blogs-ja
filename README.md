@@ -64,6 +64,7 @@
 | NRIネットコム             | [NRIネットコムBlog](https://tech.nri-net.com/)                               | [RSS](https://tech.nri-net.com/feed)                   |
 | NTTドコモビジネス           | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)       | [RSS](https://engineers.ntt.com/feed)                  |
 | PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
+| Preferred Networks   | [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/)      | [RSS](https://tech.preferred.jp/ja/feed/)              |
 | QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
 | ROUTE06              | [ROUTE06 Tech Blog](https://tech.route06.co.jp/)                        | [RSS](https://tech.route06.co.jp/feed)                 |
 | Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
