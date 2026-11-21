@@ -19,110 +19,131 @@
 
 ## ブログ一覧
 
-| 企業                   | ブログ                                                                     | RSS                                                    |
-| -------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ |
-| AI Shift             | [AI Shift Tech Blog (旧)](https://www.ai-shift.co.jp/techblog/)          | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
-| AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                       | [RSS](https://zenn.dev/p/aishift/feed)                 |
-| BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                          | [RSS](https://devblog.thebase.in/feed)                 |
-| BuySell Technologies | [バイセル Tech Blog](https://tech.buysell-technologies.com/)                | [RSS](https://tech.buysell-technologies.com/feed)      |
-| CADDi                | [CADDi Tech Blog](https://caddi.tech/)                                  | [RSS](https://caddi.tech/feed)                         |
-| CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
-| CARTA HOLDINGS       | [CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/)                | [RSS](https://techblog.cartaholdings.co.jp/feed)       |
-| Classi               | [Classi開発者ブログ](https://tech.classi.jp/)                                 | [RSS](https://tech.classi.jp/feed)                     |
-| Cygames              | [Cygames Engineers' Blog](https://tech.cygames.co.jp/)                  | [RSS](https://tech.cygames.co.jp/feed)                 |
-| DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                       | [RSS](https://engineering.dena.com/blog/index.xml)     |
-| DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
-| DMM                  | [DMM Developers Blog](https://developersblog.dmm.com/)                  | [RSS](https://developersblog.dmm.com/feed)             |
-| enechain             | [enechain Tech Blog](https://techblog.enechain.com/)                    | [RSS](https://techblog.enechain.com/feed)              |
-| freee                | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
-| G-gen                | [G-gen Tech Blog](https://blog.g-gen.co.jp/)                            | [RSS](https://blog.g-gen.co.jp/feed)                   |
-| GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                     | [RSS](https://blog.flatt.tech/feed)                    |
-| GMOあおぞらネット銀行         | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/)          | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
-| GMOインターネットグループ       | [グループ研究開発本部 エンジニアブログ](https://recruit.group.gmo/engineer/jisedai/blog/) |                                                        |
-| GMOサイバーセキュリティ byイエラエ | [サイバーセキュリティブログ](https://gmo-cybersecurity.com/blog/)                    |                                                        |
-| GMOペパボ               | [Pepabo Tech Portal](https://tech.pepabo.com/)                          |                                                        |
-| GMOペパボ               | [GMOペパボ](https://zenn.dev/p/pepabo/)                                    | [RSS](https://zenn.dev/p/pepabo/feed)                  |
-| GMOメイクショップ           | [GMO MAKESHOP engineer blog](https://tech.makeshop.co.jp/)              | [RSS](https://tech.makeshop.co.jp/feed)                |
-| GMOメディア              | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                           | [RSS](https://zenn.dev/p/gmomedia/feed)                |
-| GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                              | [RSS](https://techblog.goinc.jp/feed)                  |
-| Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                             | [RSS](https://tech.gunosy.io/feed)                     |
-| hacomono             | [hacomono TECH BLOG](https://techblog.hacomono.jp/)                     | [RSS](https://techblog.hacomono.jp/feed)               |
-| KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
-| kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
-| LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
-| LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                    | [RSS](https://zenn.dev/p/layerx/feed)                  |
-| LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                        | [RSS](https://www.lifull.blog/feed)                    |
-| LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                  | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
-| MIXI                 | [MIXI DEVELOPERS](https://mixi-developers.mixi.co.jp/)                  | [RSS](https://medium.com/feed/mixi-developers)         |
-| MIXI                 | [MIXI DEVELOPERS Tech Blog](https://zenn.dev/p/mixi/)                   | [RSS](https://zenn.dev/p/mixi/feed)                    |
-| MonotaRO             | [MonotaRO Tech Blog](https://tech-blog.monotaro.com/)                   | [RSS](https://tech-blog.monotaro.com/feed)             |
-| NTTドコモビジネス           | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)       | [RSS](https://engineers.ntt.com/feed)                  |
-| PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                       |                                                        |
-| QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)               |                                                        |
-| Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                | [RSS](https://buildersbox.corp-sansan.com/feed)        |
-| SmartBank            | [inSmartBank](https://blog.smartbank.co.jp/)                            | [RSS](https://blog.smartbank.co.jp/feed)               |
-| SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                           | [RSS](https://tech.smarthr.jp/feed)                    |
-| STORES               | [STORES Product Blog](https://product.st.inc/)                          | [RSS](https://product.st.inc/feed)                     |
-| Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
-| Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                             | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
+| 企業                   | ブログ                                                                          | RSS                                                    |
+| -------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 10X                  | [10X Product Blog](https://product.10x.co.jp/)                               | [RSS](https://product.10x.co.jp/feed)                  |
+| AI Shift             | [AI Shift Tech Blog (旧)](https://www.ai-shift.co.jp/techblog/)               | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
+| AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                            | [RSS](https://zenn.dev/p/aishift/feed)                 |
+| atama plus           | [atama plus techblog](https://zenn.dev/p/atamaplus/)                         | [RSS](https://zenn.dev/p/atamaplus/feed)               |
+| BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                               | [RSS](https://devblog.thebase.in/feed)                 |
+| BuySell Technologies | [バイセル Tech Blog](https://tech.buysell-technologies.com/)                     | [RSS](https://tech.buysell-technologies.com/feed)      |
+| CADDi                | [CADDi Tech Blog](https://caddi.tech/)                                       | [RSS](https://caddi.tech/feed)                         |
+| CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                           |                                                        |
+| CARTA HOLDINGS       | [CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/)                     | [RSS](https://techblog.cartaholdings.co.jp/feed)       |
+| Classi               | [Classi開発者ブログ](https://tech.classi.jp/)                                      | [RSS](https://tech.classi.jp/feed)                     |
+| Cygames              | [Cygames Engineers' Blog](https://tech.cygames.co.jp/)                       | [RSS](https://tech.cygames.co.jp/feed)                 |
+| DeNA                 | [DeNA Engineering](https://engineering.dena.com/)                            | [RSS](https://engineering.dena.com/blog/index.xml)     |
+| DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                                  | [RSS](https://swet.dena.com/feed)                      |
+| DMM                  | [DMM Developers Blog](https://developersblog.dmm.com/)                       | [RSS](https://developersblog.dmm.com/feed)             |
+| enechain             | [enechain Tech Blog](https://techblog.enechain.com/)                         | [RSS](https://techblog.enechain.com/feed)              |
+| ENECHANGE            | [ENECHANGE Developer Blog](https://tech.enechange.co.jp/)                    | [RSS](https://tech.enechange.co.jp/feed)               |
+| freee                | [freee Developers Hub](https://developers.freee.co.jp/)                      | [RSS](https://developers.freee.co.jp/feed)             |
+| G-gen                | [G-gen Tech Blog](https://blog.g-gen.co.jp/)                                 | [RSS](https://blog.g-gen.co.jp/feed)                   |
+| Gaudiy               | [Gaudiy Tech Blog](https://techblog.gaudiy.com/)                             | [RSS](https://techblog.gaudiy.com/feed)                |
+| GMO Flatt Security   | [GMO Flatt Security Blog](https://blog.flatt.tech/)                          | [RSS](https://blog.flatt.tech/feed)                    |
+| GMOあおぞらネット銀行         | [GMOあおぞらネット銀行テック&カルチャーブログ](https://gmo-aozora.hatenablog.com/)               | [RSS](https://gmo-aozora.hatenablog.com/feed)          |
+| GMOインターネットグループ       | [グループ研究開発本部 エンジニアブログ](https://recruit.group.gmo/engineer/jisedai/blog/)      |                                                        |
+| GMOサイバーセキュリティ byイエラエ | [サイバーセキュリティブログ](https://gmo-cybersecurity.com/blog/)                         |                                                        |
+| GMOペパボ               | [Pepabo Tech Portal](https://tech.pepabo.com/)                               |                                                        |
+| GMOペパボ               | [GMOペパボ](https://zenn.dev/p/pepabo/)                                         | [RSS](https://zenn.dev/p/pepabo/feed)                  |
+| GMOメイクショップ           | [GMO MAKESHOP engineer blog](https://tech.makeshop.co.jp/)                   | [RSS](https://tech.makeshop.co.jp/feed)                |
+| GMOメディア              | [GMOメディアテックブログ](https://zenn.dev/p/gmomedia/)                                | [RSS](https://zenn.dev/p/gmomedia/feed)                |
+| GO                   | [GO Tech Blog](https://techblog.goinc.jp/)                                   | [RSS](https://techblog.goinc.jp/feed)                  |
+| Gunosy               | [Gunosy Tech Blog](https://tech.gunosy.io/)                                  | [RSS](https://tech.gunosy.io/feed)                     |
+| hacomono             | [hacomono TECH BLOG](https://techblog.hacomono.jp/)                          | [RSS](https://techblog.hacomono.jp/feed)               |
+| IIJ                  | [IIJ Engineers Blog](https://eng-blog.iij.ad.jp/)                            | [RSS](https://eng-blog.iij.ad.jp/feed)                 |
+| KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                      |                                                        |
+| kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)                 | [RSS](https://creators-note.chatwork.com/feed)         |
+| LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                                | [RSS](https://tech.layerx.co.jp/feed)                  |
+| LayerX               | [LayerX](https://zenn.dev/p/layerx/)                                         | [RSS](https://zenn.dev/p/layerx/feed)                  |
+| LIFULL               | [LIFULL Creators Blog](https://www.lifull.blog/)                             | [RSS](https://www.lifull.blog/feed)                    |
+| LINEヤフー              | [LINEヤフー Tech Blog](https://techblog.lycorp.co.jp/ja/)                       | [RSS](https://techblog.lycorp.co.jp/ja/feed/index.xml) |
+| MIXI                 | [MIXI DEVELOPERS](https://mixi-developers.mixi.co.jp/)                       | [RSS](https://medium.com/feed/mixi-developers)         |
+| MIXI                 | [MIXI DEVELOPERS Tech Blog](https://zenn.dev/p/mixi/)                        | [RSS](https://zenn.dev/p/mixi/feed)                    |
+| MonotaRO             | [MonotaRO Tech Blog](https://tech-blog.monotaro.com/)                        | [RSS](https://tech-blog.monotaro.com/feed)             |
+| NRIネットコム             | [NRIネットコムBlog](https://tech.nri-net.com/)                                    | [RSS](https://tech.nri-net.com/feed)                   |
+| NTTドコモビジネス           | [NTT docomo Business Engineers' Blog](https://engineers.ntt.com/)            | [RSS](https://engineers.ntt.com/feed)                  |
+| PayPay               | [PayPay Product Blog](https://blog.paypay.ne.jp/)                            |                                                        |
+| QualiArts            | [QualiArts engineer blog](https://technote.qualiarts.jp/)                    |                                                        |
+| ROUTE06              | [ROUTE06 Tech Blog](https://tech.route06.co.jp/)                             | [RSS](https://tech.route06.co.jp/feed)                 |
+| Sansan               | [Sansan Tech Blog](https://buildersbox.corp-sansan.com/)                     | [RSS](https://buildersbox.corp-sansan.com/feed)        |
+| SmartBank            | [inSmartBank](https://blog.smartbank.co.jp/)                                 | [RSS](https://blog.smartbank.co.jp/feed)               |
+| SmartHR              | [SmartHR Tech Blog](https://tech.smarthr.jp/)                                | [RSS](https://tech.smarthr.jp/feed)                    |
+| Speee                | [Speee DEVELOPER BLOG](https://tech.speee.jp/)                               | [RSS](https://tech.speee.jp/feed)                      |
+| STORES               | [STORES Product Blog](https://product.st.inc/)                               | [RSS](https://product.st.inc/feed)                     |
+| Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                        | [RSS](https://tech.sumzap.co.jp/feed)                  |
+| TVer                 | [TVer Tech Blog](https://techblog.tver.co.jp/)                               | [RSS](https://techblog.tver.co.jp/feed)                |
+| Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                                  | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
 | Wantedly             | [Wantedly Engineers](https://www.wantedly.com/stories/s/wantedly_engineers/) |                                                        |
-| ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
-| ZOZO                 | [ZOZO](https://zenn.dev/p/zozotech/)                                    | [RSS](https://zenn.dev/p/zozotech/feed)                |
-| アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                     | [RSS](https://tech.askul.co.jp/feed)                   |
-| アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                             | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
-| アンドパッド               | [ANDPAD Tech Blog](https://tech.andpad.co.jp/)                          | [RSS](https://tech.andpad.co.jp/feed)                  |
-| 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                | [RSS](https://user-first.ikyu.co.jp/feed)              |
-| エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                 | [RSS](https://www.m3tech.blog/feed)                    |
-| エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)               | [RSS](https://m3career-eng.hatenablog.com/feed)        |
-| カカクコム                | [Tabelog Tech Blog](https://tech-blog.tabelog.com/)                     | [RSS](https://tech-blog.tabelog.com/feed)              |
-| カカクコム                | [カカクコムTechBlog](https://kakaku-techblog.com/)                           | [RSS](https://kakaku-techblog.com/feed)                |
-| カケハシ                 | [KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/)            | [RSS](https://kakehashi-dev.hatenablog.com/feed)       |
-| カミナシ                 | [カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/)             | [RSS](https://kaminashi-developer.hatenablog.jp/feed)  |
-| カヤック                 | [KAYAC Engineers' Blog](https://techblog.kayac.com/)                    | [RSS](https://techblog.kayac.com/feed)                 |
-| クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
-| クラウドワークス             | [クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/)                    | [RSS](https://engineer.crowdworks.jp/feed)             |
-| クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                             | [RSS](https://dev.classmethod.jp/feed/)                |
-| クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
-| グリー                  | [GREE Engineering](https://labs.gree.jp/blog/)                          | [RSS](https://labs.gree.jp/blog/feed/)                 |
-| サーバーワークス             | [サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/)                     | [RSS](https://blog.serverworks.co.jp/feed)             |
-| サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
-| サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
-| サイバーエージェント           | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/) |                                                        |
-| サイバーエージェント           | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                | [RSS](https://blog.sge-coretech.com/feed)              |
-| サイボウズ                | [Cybozu Inside Out](https://blog.cybozu.io/)                            | [RSS](https://blog.cybozu.io/feed)                     |
-| サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                        | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
-| サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                         | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
-| サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                    | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
-| セーフィー                | [セーフィー テックブログ](https://zenn.dev/p/safie_inc/)                           | [RSS](https://zenn.dev/p/safie_inc/feed)               |
-| タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                    | [RSS](https://tech.timee.co.jp/feed)                   |
-| 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                      |                                                        |
-| ドワンゴ                 | [dwango on GitHub](https://dwango.github.io/)                           |                                                        |
-| ドワンゴ                 | [DWANGO Engineering Blog](https://engineering.kdx.co.jp/)               | [RSS](https://engineering.kdx.co.jp/feed)              |
-| ドワンゴ                 | [ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/)                               | [RSS](https://blog.nnn.dev/feed)                       |
-| ナレッジワーク              | [株式会社ナレッジワーク](https://zenn.dev/p/knowledgework/)                        | [RSS](https://zenn.dev/p/knowledgework/feed)           |
-| ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                   |                                                        |
-| 日本経済新聞社              | [HACK The Nikkei](https://hack.nikkei.com/blog/)                        |                                                        |
-| はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)             | [RSS](https://developer.hatenastaff.com/feed)          |
-| ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                              | [RSS](https://inside.pixiv.blog/feed)                  |
-| ファインディ               | [Findy Tech Blog](https://tech.findy.co.jp/)                            | [RSS](https://tech.findy.co.jp/feed)                   |
-| フューチャー               | [フューチャー技術ブログ](https://future-architect.github.io/)                      | [RSS](https://future-architect.github.io/atom.xml)     |
-| マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)           | [RSS](https://moneyforward-dev.jp/feed)                |
-| マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)            | [RSS](https://zenn.dev/p/moneyforward/feed)            |
-| ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                     | [RSS](https://tech.mirrativ.stream/feed)               |
-| メドピア                 | [メドピア開発者ブログ](https://tech.medpeer.co.jp/)                               | [RSS](https://tech.medpeer.co.jp/feed)                 |
-| メドレー                 | [MEDLEY Developer Portal](https://developer.medley.jp/)                 |                                                        |
-| メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                   | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
-| ヤプリ                  | [Yappli Tech Blog](https://tech.yappli.io/)                             | [RSS](https://tech.yappli.io/feed)                     |
-| ユーザベース               | [Uzabase for Engineers](https://tech.uzabase.com/)                      | [RSS](https://tech.uzabase.com/feed)                   |
-| ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                 | [RSS](https://tech-blog.rakus.co.jp/feed)              |
-| ラクスル                 | [RAKSUL TechBlog](https://techblog.raksul.com/)                         | [RSS](https://techblog.raksul.com/feed)                |
-| リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                    |                                                        |
-| リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                   |                                                        |
-| リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)               | [RSS](https://blog.studysapuri.jp/feed)                |
-| リブセンス                | [LIVESENSE ENGINEER BLOG](https://made.livesense.co.jp/)                | [RSS](https://made.livesense.co.jp/feed)               |
-| レバレジーズ               | [Leverages Tech Blog](https://tech.leverages.jp/)                       | [RSS](https://tech.leverages.jp/feed)                  |
-| レバレジーズ               | [レバレジーズ データAIブログ](https://analytics.leverages.jp/)                      | [RSS](https://analytics.leverages.jp/feed)             |
-| ログラス                 | [ログラス テックブログ](https://zenn.dev/p/loglass/)                              | [RSS](https://zenn.dev/p/loglass/feed)                 |
+| Visional             | [Visional Engineering Blog](https://engineering.visional.inc/blog/)          |                                                        |
+| ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                                 | [RSS](https://techblog.zozo.com/feed)                  |
+| ZOZO                 | [ZOZO](https://zenn.dev/p/zozotech/)                                         | [RSS](https://zenn.dev/p/zozotech/feed)                |
+| アスクル                 | [ASKUL Engineering BLOG](https://tech.askul.co.jp/)                          | [RSS](https://tech.askul.co.jp/feed)                   |
+| アソビュー                | [asoview! Tech Blog](https://tech.asoview.co.jp/)                            | [RSS](https://tech.asoview.co.jp/feed)                 |
+| アプリボット               | [アプリボット](https://zenn.dev/p/applibot_tech/)                                  | [RSS](https://zenn.dev/p/applibot_tech/feed)           |
+| アンドパッド               | [ANDPAD Tech Blog](https://tech.andpad.co.jp/)                               | [RSS](https://tech.andpad.co.jp/feed)                  |
+| 一休                   | [一休.com Developers Blog](https://user-first.ikyu.co.jp/)                     | [RSS](https://user-first.ikyu.co.jp/feed)              |
+| エブリー                 | [every Tech Blog](https://tech.every.tv/)                                    | [RSS](https://tech.every.tv/feed)                      |
+| エムスリー                | [エムスリーテックブログ](https://www.m3tech.blog/)                                      | [RSS](https://www.m3tech.blog/feed)                    |
+| エムスリーキャリア            | [M3Career Techblog](https://m3career-eng.hatenablog.com/)                    | [RSS](https://m3career-eng.hatenablog.com/feed)        |
+| オプティム                | [OPTiM TECH BLOG](https://tech-blog.optim.co.jp/)                            | [RSS](https://tech-blog.optim.co.jp/feed)              |
+| カカクコム                | [Tabelog Tech Blog](https://tech-blog.tabelog.com/)                          | [RSS](https://tech-blog.tabelog.com/feed)              |
+| カカクコム                | [カカクコムTechBlog](https://kakaku-techblog.com/)                                | [RSS](https://kakaku-techblog.com/feed)                |
+| カケハシ                 | [KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/)                 | [RSS](https://kakehashi-dev.hatenablog.com/feed)       |
+| カミナシ                 | [カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/)                  | [RSS](https://kaminashi-developer.hatenablog.jp/feed)  |
+| カヤック                 | [KAYAC Engineers' Blog](https://techblog.kayac.com/)                         | [RSS](https://techblog.kayac.com/feed)                 |
+| カンム                  | [カンム テックブログ](https://tech.kanmu.co.jp/)                                      | [RSS](https://tech.kanmu.co.jp/feed)                   |
+| クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                                | [RSS](https://techlife.cookpad.com/feed)               |
+| クラウドワークス             | [クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/)                         | [RSS](https://engineer.crowdworks.jp/feed)             |
+| クラシル                 | [Kurashiru Tech Blog](https://tech.dely.jp/)                                 | [RSS](https://tech.dely.jp/feed)                       |
+| クラスメソッド              | [DevelopersIO](https://dev.classmethod.jp/)                                  | [RSS](https://dev.classmethod.jp/feed/)                |
+| クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                              | [RSS](https://zenn.dev/p/team_zenn/feed)               |
+| グリー                  | [GREE Engineering](https://labs.gree.jp/blog/)                               | [RSS](https://labs.gree.jp/blog/feed/)                 |
+| コネヒト                 | [コネヒト開発者ブログ](https://tech.connehito.com/)                                    | [RSS](https://tech.connehito.com/feed)                 |
+| サーバーワークス             | [サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/)                          | [RSS](https://blog.serverworks.co.jp/feed)             |
+| サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/)      | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
+| サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                     |                                                        |
+| サイバーエージェント           | [CyberAgent Game Creators Blog](https://creator.game.cyberagent.co.jp/)      |                                                        |
+| サイバーエージェント           | [CORETECH ENGINEER BLOG](https://blog.sge-coretech.com/)                     | [RSS](https://blog.sge-coretech.com/feed)              |
+| サイボウズ                | [Cybozu Inside Out](https://blog.cybozu.io/)                                 | [RSS](https://blog.cybozu.io/feed)                     |
+| サイボウズ                | [サイボウズ 生産性向上チーム](https://zenn.dev/p/cybozu_ept/)                             | [RSS](https://zenn.dev/p/cybozu_ept/feed)              |
+| サイボウズ                | [サイボウズ データチーム](https://zenn.dev/p/cybozu_data/)                              | [RSS](https://zenn.dev/p/cybozu_data/feed)             |
+| サイボウズ                | [サイボウズ フロントエンド](https://zenn.dev/p/cybozu_frontend/)                         | [RSS](https://zenn.dev/p/cybozu_frontend/feed)         |
+| スタメン                 | [stmn tech blog](https://tech.stmn.co.jp/)                                   | [RSS](https://tech.stmn.co.jp/feed)                    |
+| セーフィー                | [セーフィー テックブログ](https://zenn.dev/p/safie_inc/)                                | [RSS](https://zenn.dev/p/safie_inc/feed)               |
+| セガ                   | [SEGA TECH Blog](https://techblog.sega.jp/)                                  | [RSS](https://techblog.sega.jp/feed)                   |
+| タイミー                 | [Timee Product Team Blog](https://tech.timee.co.jp/)                         | [RSS](https://tech.timee.co.jp/feed)                   |
+| 出前館                  | [出前館 Tech Blog](https://techblog.demae-can.co.jp/)                           |                                                        |
+| ドワンゴ                 | [dwango on GitHub](https://dwango.github.io/)                                |                                                        |
+| ドワンゴ                 | [DWANGO Engineering Blog](https://engineering.kdx.co.jp/)                    | [RSS](https://engineering.kdx.co.jp/feed)              |
+| ドワンゴ                 | [ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/)                                    | [RSS](https://blog.nnn.dev/feed)                       |
+| ナレッジワーク              | [株式会社ナレッジワーク](https://zenn.dev/p/knowledgework/)                             | [RSS](https://zenn.dev/p/knowledgework/feed)           |
+| ニフティ                 | [NIFTY engineering](https://engineering.nifty.co.jp/)                        |                                                        |
+| 日本経済新聞社              | [HACK The Nikkei](https://hack.nikkei.com/blog/)                             |                                                        |
+| はてな                  | [Hatena Developer Blog](https://developer.hatenastaff.com/)                  | [RSS](https://developer.hatenastaff.com/feed)          |
+| ピクシブ                 | [pixiv inside](https://inside.pixiv.blog/)                                   | [RSS](https://inside.pixiv.blog/feed)                  |
+| ファインディ               | [Findy Tech Blog](https://tech.findy.co.jp/)                                 | [RSS](https://tech.findy.co.jp/feed)                   |
+| フューチャー               | [フューチャー技術ブログ](https://future-architect.github.io/)                           | [RSS](https://future-architect.github.io/atom.xml)     |
+| 弁護士ドットコム             | [弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/)                  | [RSS](https://creators.bengo4.com/feed)                |
+| マネーフォワード             | [Money Forward Developers Blog](https://moneyforward-dev.jp/)                | [RSS](https://moneyforward-dev.jp/feed)                |
+| マネーフォワード             | [Money Forward Developers](https://zenn.dev/p/moneyforward/)                 | [RSS](https://zenn.dev/p/moneyforward/feed)            |
+| ミラティブ                | [Mirrativ Tech Blog](https://tech.mirrativ.stream/)                          | [RSS](https://tech.mirrativ.stream/feed)               |
+| メドピア                 | [メドピア開発者ブログ](https://tech.medpeer.co.jp/)                                    | [RSS](https://tech.medpeer.co.jp/feed)                 |
+| メドレー                 | [MEDLEY Developer Portal](https://developer.medley.jp/)                      |                                                        |
+| メルカリ                 | [メルカリエンジニアリング](https://engineering.mercari.com/blog/)                        | [RSS](https://engineering.mercari.com/blog/feed.xml)   |
+| モバイルファクトリー           | [Mobile Factory Tech Blog](https://tech.mobilefactory.jp/)                   | [RSS](https://tech.mobilefactory.jp/feed)              |
+| ヤプリ                  | [Yappli Tech Blog](https://tech.yappli.io/)                                  | [RSS](https://tech.yappli.io/feed)                     |
+| ユーザベース               | [Uzabase for Engineers](https://tech.uzabase.com/)                           | [RSS](https://tech.uzabase.com/feed)                   |
+| ラクーンホールディングス         | [Raccoon Tech Blog](https://techblog.raccoon.ne.jp/)                         |                                                        |
+| ラクス                  | [RAKUS Developers Blog](https://tech-blog.rakus.co.jp/)                      | [RSS](https://tech-blog.rakus.co.jp/feed)              |
+| ラクスル                 | [RAKSUL TechBlog](https://techblog.raksul.com/)                              | [RSS](https://techblog.raksul.com/feed)                |
+| リクルート                | [Recruit Tech Blog](https://techblog.recruit.co.jp/)                         |                                                        |
+| リクルート                | [Recruit Data Blog](https://blog.recruit.co.jp/data/)                        |                                                        |
+| リクルート                | [スタディサプリ Product Team Blog](https://blog.studysapuri.jp/)                    | [RSS](https://blog.studysapuri.jp/feed)                |
+| リブセンス                | [LIVESENSE ENGINEER BLOG](https://made.livesense.co.jp/)                     | [RSS](https://made.livesense.co.jp/feed)               |
+| レバレジーズ               | [Leverages Tech Blog](https://tech.leverages.jp/)                            | [RSS](https://tech.leverages.jp/feed)                  |
+| レバレジーズ               | [レバレジーズ データAIブログ](https://analytics.leverages.jp/)                           | [RSS](https://analytics.leverages.jp/feed)             |
+| ログラス                 | [ログラス テックブログ](https://zenn.dev/p/loglass/)                                   | [RSS](https://zenn.dev/p/loglass/feed)                 |
 
 ## Contributing
 
