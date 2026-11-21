@@ -24,6 +24,7 @@
 | 10X                  | [10X Product Blog](https://product.10x.co.jp/)                          | [RSS](https://product.10x.co.jp/feed)                  |
 | AI Shift             | [AI Shift Tech Blog (旧)](https://www.ai-shift.co.jp/techblog/)          | [RSS](https://www.ai-shift.co.jp/techblog/feed)        |
 | AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                       | [RSS](https://zenn.dev/p/aishift/feed)                 |
+| atama plus           | [atama plus techblog](https://zenn.dev/p/atamaplus/)                    | [RSS](https://zenn.dev/p/atamaplus/feed)               |
 | BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                          | [RSS](https://devblog.thebase.in/feed)                 |
 | BuySell Technologies | [バイセル Tech Blog](https://tech.buysell-technologies.com/)                | [RSS](https://tech.buysell-technologies.com/feed)      |
 | CADDi                | [CADDi Tech Blog](https://caddi.tech/)                                  | [RSS](https://caddi.tech/feed)                         |
