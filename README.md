@@ -74,6 +74,7 @@
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
 | TVer                 | [TVer Tech Blog](https://techblog.tver.co.jp/)                          | [RSS](https://techblog.tver.co.jp/feed)                |
 | Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                             | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
+| UPSIDER              | [UPSIDER Techblog](https://tech.up-sider.com/)                          | [RSS](https://tech.up-sider.com/feed)                  |
 | Visional             | [Visional Engineering Blog](https://engineering.visional.inc/blog/)     |                                                        |
 | ZOZO                 | [ZOZO TECH BLOG](https://techblog.zozo.com/)                            | [RSS](https://techblog.zozo.com/feed)                  |
 | ZOZO                 | [ZOZO](https://zenn.dev/p/zozotech/)                                    | [RSS](https://zenn.dev/p/zozotech/feed)                |
