@@ -36,6 +36,7 @@
 | DeNA                 | [DeNA Testing Blog](https://swet.dena.com/)                             | [RSS](https://swet.dena.com/feed)                      |
 | DMM                  | [DMM Developers Blog](https://developersblog.dmm.com/)                  | [RSS](https://developersblog.dmm.com/feed)             |
 | enechain             | [enechain Tech Blog](https://techblog.enechain.com/)                    | [RSS](https://techblog.enechain.com/feed)              |
+| estie                | [estie inside blog](https://www.estie.jp/blog/)                         | [RSS](https://www.estie.jp/blog/feed)                  |
 | ENECHANGE            | [ENECHANGE Developer Blog](https://tech.enechange.co.jp/)               | [RSS](https://tech.enechange.co.jp/feed)               |
 | freee                | [freee Developers Hub](https://developers.freee.co.jp/)                 | [RSS](https://developers.freee.co.jp/feed)             |
 | G-gen                | [G-gen Tech Blog](https://blog.g-gen.co.jp/)                            | [RSS](https://blog.g-gen.co.jp/feed)                   |
