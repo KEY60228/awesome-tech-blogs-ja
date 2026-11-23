@@ -26,6 +26,7 @@
 | AI Shift             | [AI Shift Tech Blog](https://zenn.dev/p/aishift/)                       | [RSS](https://zenn.dev/p/aishift/feed)                 |
 | atama plus           | [atama plus techblog](https://zenn.dev/p/atamaplus/)                    | [RSS](https://zenn.dev/p/atamaplus/feed)               |
 | BASE                 | [BASEプロダクトチームブログ](https://devblog.thebase.in/)                          | [RSS](https://devblog.thebase.in/feed)                 |
+| BIGLOBE              | [BIGLOBE Style](https://style.biglobe.co.jp/)                           | [RSS](https://style.biglobe.co.jp/feed)                |
 | BuySell Technologies | [バイセル Tech Blog](https://tech.buysell-technologies.com/)                | [RSS](https://tech.buysell-technologies.com/feed)      |
 | CADDi                | [CADDi Tech Blog](https://caddi.tech/)                                  | [RSS](https://caddi.tech/feed)                         |
 | CAM                  | [CAM Tech Blog](https://cam-inc.co.jp/p/techblog/)                      |                                                        |
