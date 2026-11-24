@@ -53,6 +53,7 @@
 | hacomono             | [hacomono TECH BLOG](https://techblog.hacomono.jp/)                     | [RSS](https://techblog.hacomono.jp/feed)               |
 | JX通信社                | [JX通信社エンジニアブログ](https://tech.jxpress.net/)                              | [RSS](https://tech.jxpress.net/feed)                   |
 | IIJ                  | [IIJ Engineers Blog](https://eng-blog.iij.ad.jp/)                       | [RSS](https://eng-blog.iij.ad.jp/feed)                 |
+| Insight Edge         | [Insight Edge Tech Blog](https://techblog.insightedge.jp/)              | [RSS](https://techblog.insightedge.jp/feed)            |
 | KINTOテクノロジーズ         | [KINTO Tech Blog](https://blog.kinto-technologies.com/)                 |                                                        |
 | kubell               | [kubell Creator's Note](https://creators-note.chatwork.com/)            | [RSS](https://creators-note.chatwork.com/feed)         |
 | LayerX               | [LayerX エンジニアブログ](https://tech.layerx.co.jp/)                           | [RSS](https://tech.layerx.co.jp/feed)                  |
