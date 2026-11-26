@@ -96,6 +96,7 @@
 | カミナシ                 | [カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/)             | [RSS](https://kaminashi-developer.hatenablog.jp/feed)  |
 | カヤック                 | [KAYAC Engineers' Blog](https://techblog.kayac.com/)                    | [RSS](https://techblog.kayac.com/feed)                 |
 | カンム                  | [カンム テックブログ](https://tech.kanmu.co.jp/)                                 | [RSS](https://tech.kanmu.co.jp/feed)                   |
+| ギフティ                 | [giftee Tech Blog](https://tech.giftee.co.jp/)                          | [RSS](https://tech.giftee.co.jp/feed)                  |
 | クックパッド               | [クックパッド開発者ブログ](https://techlife.cookpad.com/)                           | [RSS](https://techlife.cookpad.com/feed)               |
 | クラウドワークス             | [クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/)                    | [RSS](https://engineer.crowdworks.jp/feed)             |
 | クラシル                 | [Kurashiru Tech Blog](https://tech.dely.jp/)                            | [RSS](https://tech.dely.jp/feed)                       |
