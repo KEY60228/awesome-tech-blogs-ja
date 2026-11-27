@@ -74,6 +74,7 @@
 | Speee                | [Speee DEVELOPER BLOG](https://tech.speee.jp/)                          | [RSS](https://tech.speee.jp/feed)                      |
 | STORES               | [STORES Product Blog](https://product.st.inc/)                          | [RSS](https://product.st.inc/feed)                     |
 | Sumzap               | [Sumzap Engineering Blog](https://tech.sumzap.co.jp/)                   | [RSS](https://tech.sumzap.co.jp/feed)                  |
+| TOKIUM               | [TOKIUMプロダクトチーム テックブログ](https://zenn.dev/p/tokium_dev/)                 | [RSS](https://zenn.dev/p/tokium_dev/feed)              |
 | TVer                 | [TVer Tech Blog](https://techblog.tver.co.jp/)                          | [RSS](https://techblog.tver.co.jp/feed)                |
 | Ubie                 | [Ubie テックブログ](https://zenn.dev/p/ubie_dev/)                             | [RSS](https://zenn.dev/p/ubie_dev/feed)                |
 | UPSIDER              | [UPSIDER Techblog](https://tech.up-sider.com/)                          | [RSS](https://tech.up-sider.com/feed)                  |
