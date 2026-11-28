@@ -103,6 +103,7 @@
 | クラスメソッド              | [Zenn Tech Blog](https://zenn.dev/p/team_zenn/)                         | [RSS](https://zenn.dev/p/team_zenn/feed)               |
 | グリー                  | [GREE Engineering](https://labs.gree.jp/blog/)                          | [RSS](https://labs.gree.jp/blog/feed/)                 |
 | コネヒト                 | [コネヒト開発者ブログ](https://tech.connehito.com/)                               | [RSS](https://tech.connehito.com/feed)                 |
+| コロプラ                 | [COLOPL Tech Blog](https://blog.colopl.dev/)                            | [RSS](https://blog.colopl.dev/feed)                    |
 | サーバーワークス             | [サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/)                     | [RSS](https://blog.serverworks.co.jp/feed)             |
 | サイバーエージェント           | [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/) | [RSS](https://developers.cyberagent.co.jp/blog/feed/)  |
 | サイバーエージェント           | [CyberAgent AI tech studio](https://cyberagent.ai/blog/)                |                                                        |
